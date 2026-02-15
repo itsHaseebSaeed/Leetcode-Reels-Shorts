@@ -118,138 +118,138 @@ Quick revision resources for coding interview preparation! Each YouTube short is
 | Binary Tree Maximum Path Sum | Hard | [Link](#) |
 | Serialize and Deserialize Binary Tree | Hard | [Link](#) |
 
+
 ## Tries
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Implement Trie (Prefix Tree) | Medium | [Link](#) |
-| Design Add and Search Words Data Structure | Medium | [Link](#) |
-| Word Search II | Hard | [Link](#) |
+| Implement Trie (Prefix Tree) | Medium | [Link](https://www.youtube.com/results?search_query=Implement+Trie+Prefix+Tree+leetcode+shorts) |
+| Design Add and Search Words Data Structure | Medium | [Link](https://www.youtube.com/results?search_query=Design+Add+and+Search+Words+Data+Structure+leetcode+shorts) |
+| Word Search II | Hard | [Link](https://www.youtube.com/results?search_query=Word+Search+II+leetcode+shorts) |
 
 ## Heap / Priority Queue
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Kth Largest Element in a Stream | Easy | [Link](#) |
-| Last Stone Weight | Easy | [Link](#) |
-| K Closest Points to Origin | Medium | [Link](#) |
-| Kth Largest Element in an Array | Medium | [Link](#) |
-| Task Scheduler | Medium | [Link](#) |
-| Design Twitter | Medium | [Link](#) |
-| Find Median from Data Stream | Hard | [Link](#) |
+| Kth Largest Element in a Stream | Easy | [Link](https://www.youtube.com/results?search_query=Kth+Largest+Element+in+a+Stream+leetcode+shorts) |
+| Last Stone Weight | Easy | [Link](https://www.youtube.com/results?search_query=Last+Stone+Weight+leetcode+shorts) |
+| K Closest Points to Origin | Medium | [Link](https://www.youtube.com/results?search_query=K+Closest+Points+to+Origin+leetcode+shorts) |
+| Kth Largest Element in an Array | Medium | [Link](https://www.youtube.com/results?search_query=Kth+Largest+Element+in+an+Array+leetcode+shorts) |
+| Task Scheduler | Medium | [Link](https://www.youtube.com/results?search_query=Task+Scheduler+leetcode+shorts) |
+| Design Twitter | Medium | [Link](https://www.youtube.com/results?search_query=Design+Twitter+leetcode+shorts) |
+| Find Median from Data Stream | Hard | [Link](https://www.youtube.com/results?search_query=Find+Median+from+Data+Stream+leetcode+shorts) |
 
 ## Backtracking
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Subsets | Medium | [Link](#) |
-| Combination Sum | Medium | [Link](#) |
-| Permutations | Medium | [Link](#) |
-| Subsets II | Medium | [Link](#) |
-| Combination Sum II | Medium | [Link](#) |
-| Word Search | Medium | [Link](#) |
-| Palindrome Partitioning | Medium | [Link](#) |
-| Letter Combinations of a Phone Number | Medium | [Link](#) |
-| N-Queens | Hard | [Link](#) |
+| Subsets | Medium | [Link](https://www.youtube.com/results?search_query=Subsets+leetcode+shorts) |
+| Combination Sum | Medium | [Link](https://www.youtube.com/results?search_query=Combination+Sum+leetcode+shorts) |
+| Permutations | Medium | [Link](https://www.youtube.com/results?search_query=Permutations+leetcode+shorts) |
+| Subsets II | Medium | [Link](https://www.youtube.com/results?search_query=Subsets+II+leetcode+shorts) |
+| Combination Sum II | Medium | [Link](https://www.youtube.com/results?search_query=Combination+Sum+II+leetcode+shorts) |
+| Word Search | Medium | [Link](https://www.youtube.com/results?search_query=Word+Search+leetcode+shorts) |
+| Palindrome Partitioning | Medium | [Link](https://www.youtube.com/results?search_query=Palindrome+Partitioning+leetcode+shorts) |
+| Letter Combinations of a Phone Number | Medium | [Link](https://www.youtube.com/results?search_query=Letter+Combinations+of+a+Phone+Number+leetcode+shorts) |
+| N-Queens | Hard | [Link](https://www.youtube.com/results?search_query=N+Queens+leetcode+shorts) |
 
 ## Graphs
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Number of Islands | Medium | [Link](#) |
-| Clone Graph | Medium | [Link](#) |
-| Max Area of Island | Medium | [Link](#) |
-| Pacific Atlantic Water Flow | Medium | [Link](#) |
-| Surrounded Regions | Medium | [Link](#) |
-| Rotting Oranges | Medium | [Link](#) |
-| Walls and Gates | Medium | [Link](#) |
-| Course Schedule | Medium | [Link](#) |
-| Course Schedule II | Medium | [Link](#) |
-| Redundant Connection | Medium | [Link](#) |
-| Number of Connected Components in an Undirected Graph | Medium | [Link](#) |
-| Graph Valid Tree | Medium | [Link](#) |
-| Word Ladder | Hard | [Link](#) |
+| Number of Islands | Medium | [Link](https://www.youtube.com/results?search_query=Number+of+Islands+leetcode+shorts) |
+| Clone Graph | Medium | [Link](https://www.youtube.com/results?search_query=Clone+Graph+leetcode+shorts) |
+| Max Area of Island | Medium | [Link](https://www.youtube.com/results?search_query=Max+Area+of+Island+leetcode+shorts) |
+| Pacific Atlantic Water Flow | Medium | [Link](https://www.youtube.com/results?search_query=Pacific+Atlantic+Water+Flow+leetcode+shorts) |
+| Surrounded Regions | Medium | [Link](https://www.youtube.com/results?search_query=Surrounded+Regions+leetcode+shorts) |
+| Rotting Oranges | Medium | [Link](https://www.youtube.com/results?search_query=Rotting+Oranges+leetcode+shorts) |
+| Walls and Gates | Medium | [Link](https://www.youtube.com/results?search_query=Walls+and+Gates+leetcode+shorts) |
+| Course Schedule | Medium | [Link](https://www.youtube.com/results?search_query=Course+Schedule+leetcode+shorts) |
+| Course Schedule II | Medium | [Link](https://www.youtube.com/results?search_query=Course+Schedule+II+leetcode+shorts) |
+| Redundant Connection | Medium | [Link](https://www.youtube.com/results?search_query=Redundant+Connection+leetcode+shorts) |
+| Number of Connected Components in an Undirected Graph | Medium | [Link](https://www.youtube.com/results?search_query=Number+of+Connected+Components+in+an+Undirected+Graph+leetcode+shorts) |
+| Graph Valid Tree | Medium | [Link](https://www.youtube.com/results?search_query=Graph+Valid+Tree+leetcode+shorts) |
+| Word Ladder | Hard | [Link](https://www.youtube.com/results?search_query=Word+Ladder+leetcode+shorts) |
 
 ## 1-D Dynamic Programming
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Climbing Stairs | Easy | [Link](#) |
-| Min Cost Climbing Stairs | Easy | [Link](#) |
-| House Robber | Medium | [Link](#) |
-| House Robber II | Medium | [Link](#) |
-| Longest Palindromic Substring | Medium | [Link](#) |
-| Palindromic Substrings | Medium | [Link](#) |
-| Decode Ways | Medium | [Link](#) |
-| Coin Change | Medium | [Link](#) |
-| Maximum Product Subarray | Medium | [Link](#) |
-| Word Break | Medium | [Link](#) |
-| Longest Increasing Subsequence | Medium | [Link](#) |
-| Partition Equal Subset Sum | Medium | [Link](#) |
+| Climbing Stairs | Easy | [Link](https://www.youtube.com/results?search_query=Climbing+Stairs+leetcode+shorts) |
+| Min Cost Climbing Stairs | Easy | [Link](https://www.youtube.com/results?search_query=Min+Cost+Climbing+Stairs+leetcode+shorts) |
+| House Robber | Medium | [Link](https://www.youtube.com/results?search_query=House+Robber+leetcode+shorts) |
+| House Robber II | Medium | [Link](https://www.youtube.com/results?search_query=House+Robber+II+leetcode+shorts) |
+| Longest Palindromic Substring | Medium | [Link](https://www.youtube.com/results?search_query=Longest+Palindromic+Substring+leetcode+shorts) |
+| Palindromic Substrings | Medium | [Link](https://www.youtube.com/results?search_query=Palindromic+Substrings+leetcode+shorts) |
+| Decode Ways | Medium | [Link](https://www.youtube.com/results?search_query=Decode+Ways+leetcode+shorts) |
+| Coin Change | Medium | [Link](https://www.youtube.com/results?search_query=Coin+Change+leetcode+shorts) |
+| Maximum Product Subarray | Medium | [Link](https://www.youtube.com/results?search_query=Maximum+Product+Subarray+leetcode+shorts) |
+| Word Break | Medium | [Link](https://www.youtube.com/results?search_query=Word+Break+leetcode+shorts) |
+| Longest Increasing Subsequence | Medium | [Link](https://www.youtube.com/results?search_query=Longest+Increasing+Subsequence+leetcode+shorts) |
+| Partition Equal Subset Sum | Medium | [Link](https://www.youtube.com/results?search_query=Partition+Equal+Subset+Sum+leetcode+shorts) |
 
 ## Intervals
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Insert Interval | Medium | [Link](#) |
-| Merge Intervals | Medium | [Link](#) |
-| Non-overlapping Intervals | Medium | [Link](#) |
-| Meeting Rooms | Easy | [Link](#) |
-| Meeting Rooms II | Medium | [Link](#) |
-| Minimum Interval to Include Each Query | Hard | [Link](#) |
+| Insert Interval | Medium | [Link](https://www.youtube.com/results?search_query=Insert+Interval+leetcode+shorts) |
+| Merge Intervals | Medium | [Link](https://www.youtube.com/results?search_query=Merge+Intervals+leetcode+shorts) |
+| Non-overlapping Intervals | Medium | [Link](https://www.youtube.com/results?search_query=Non+overlapping+Intervals+leetcode+shorts) |
+| Meeting Rooms | Easy | [Link](https://www.youtube.com/results?search_query=Meeting+Rooms+leetcode+shorts) |
+| Meeting Rooms II | Medium | [Link](https://www.youtube.com/results?search_query=Meeting+Rooms+II+leetcode+shorts) |
+| Minimum Interval to Include Each Query | Hard | [Link](https://www.youtube.com/results?search_query=Minimum+Interval+to+Include+Each+Query+leetcode+shorts) |
 
 ## Greedy
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Maximum Subarray | Medium | [Link](#) |
-| Jump Game | Medium | [Link](#) |
-| Jump Game II | Medium | [Link](#) |
-| Gas Station | Medium | [Link](#) |
-| Hand of Straights | Medium | [Link](#) |
-| Merge Triplets to Form Target Triplet | Medium | [Link](#) |
-| Partition Labels | Medium | [Link](#) |
-| Valid Parenthesis String | Medium | [Link](#) |
+| Maximum Subarray | Medium | [Link](https://www.youtube.com/results?search_query=Maximum+Subarray+leetcode+shorts) |
+| Jump Game | Medium | [Link](https://www.youtube.com/results?search_query=Jump+Game+leetcode+shorts) |
+| Jump Game II | Medium | [Link](https://www.youtube.com/results?search_query=Jump+Game+II+leetcode+shorts) |
+| Gas Station | Medium | [Link](https://www.youtube.com/results?search_query=Gas+Station+leetcode+shorts) |
+| Hand of Straights | Medium | [Link](https://www.youtube.com/results?search_query=Hand+of+Straights+leetcode+shorts) |
+| Merge Triplets to Form Target Triplet | Medium | [Link](https://www.youtube.com/results?search_query=Merge+Triplets+to+Form+Target+Triplet+leetcode+shorts) |
+| Partition Labels | Medium | [Link](https://www.youtube.com/results?search_query=Partition+Labels+leetcode+shorts) |
+| Valid Parenthesis String | Medium | [Link](https://www.youtube.com/results?search_query=Valid+Parenthesis+String+leetcode+shorts) |
 
 ## Advanced Graphs
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Reconstruct Itinerary | Hard | [Link](#) |
-| Min Cost to Connect All Points | Medium | [Link](#) |
-| Network Delay Time | Medium | [Link](#) |
-| Swim in Rising Water | Hard | [Link](#) |
-| Alien Dictionary | Hard | [Link](#) |
-| Cheapest Flights Within K Stops | Medium | [Link](#) |
+| Reconstruct Itinerary | Hard | [Link](https://www.youtube.com/results?search_query=Reconstruct+Itinerary+leetcode+shorts) |
+| Min Cost to Connect All Points | Medium | [Link](https://www.youtube.com/results?search_query=Min+Cost+to+Connect+All+Points+leetcode+shorts) |
+| Network Delay Time | Medium | [Link](https://www.youtube.com/results?search_query=Network+Delay+Time+leetcode+shorts) |
+| Swim in Rising Water | Hard | [Link](https://www.youtube.com/results?search_query=Swim+in+Rising+Water+leetcode+shorts) |
+| Alien Dictionary | Hard | [Link](https://www.youtube.com/results?search_query=Alien+Dictionary+leetcode+shorts) |
+| Cheapest Flights Within K Stops | Medium | [Link](https://www.youtube.com/results?search_query=Cheapest+Flights+Within+K+Stops+leetcode+shorts) |
 
 ## 2-D Dynamic Programming
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Unique Paths | Medium | [Link](#) |
-| Longest Common Subsequence | Medium | [Link](#) |
-| Best Time to Buy and Sell Stock with Cooldown | Medium | [Link](#) |
-| Coin Change II | Medium | [Link](#) |
-| Target Sum | Medium | [Link](#) |
-| Interleaving String | Medium | [Link](#) |
-| Longest Increasing Path in a Matrix | Hard | [Link](#) |
-| Distinct Subsequences | Hard | [Link](#) |
-| Edit Distance | Medium | [Link](#) |
-| Burst Balloons | Hard | [Link](#) |
-| Regular Expression Matching | Hard | [Link](#) |
+| Unique Paths | Medium | [Link](https://www.youtube.com/results?search_query=Unique+Paths+leetcode+shorts) |
+| Longest Common Subsequence | Medium | [Link](https://www.youtube.com/results?search_query=Longest+Common+Subsequence+leetcode+shorts) |
+| Best Time to Buy and Sell Stock with Cooldown | Medium | [Link](https://www.youtube.com/results?search_query=Best+Time+to+Buy+and+Sell+Stock+with+Cooldown+leetcode+shorts) |
+| Coin Change II | Medium | [Link](https://www.youtube.com/results?search_query=Coin+Change+II+leetcode+shorts) |
+| Target Sum | Medium | [Link](https://www.youtube.com/results?search_query=Target+Sum+leetcode+shorts) |
+| Interleaving String | Medium | [Link](https://www.youtube.com/results?search_query=Interleaving+String+leetcode+shorts) |
+| Longest Increasing Path in a Matrix | Hard | [Link](https://www.youtube.com/results?search_query=Longest+Increasing+Path+in+a+Matrix+leetcode+shorts) |
+| Distinct Subsequences | Hard | [Link](https://www.youtube.com/results?search_query=Distinct+Subsequences+leetcode+shorts) |
+| Edit Distance | Medium | [Link](https://www.youtube.com/results?search_query=Edit+Distance+leetcode+shorts) |
+| Burst Balloons | Hard | [Link](https://www.youtube.com/results?search_query=Burst+Balloons+leetcode+shorts) |
+| Regular Expression Matching | Hard | [Link](https://www.youtube.com/results?search_query=Regular+Expression+Matching+leetcode+shorts) |
 
 ## Bit Manipulation
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Single Number | Easy | [Link](#) |
-| Number of 1 Bits | Easy | [Link](#) |
-| Counting Bits | Easy | [Link](#) |
-| Reverse Bits | Easy | [Link](#) |
-| Missing Number | Easy | [Link](#) |
-| Sum of Two Integers | Medium | [Link](#) |
-| Reverse Integer | Medium | [Link](#) |
-
+| Single Number | Easy | [Link](https://www.youtube.com/results?search_query=Single+Number+leetcode+shorts) |
+| Number of 1 Bits | Easy | [Link](https://www.youtube.com/results?search_query=Number+of+1+Bits+leetcode+shorts) |
+| Counting Bits | Easy | [Link](https://www.youtube.com/results?search_query=Counting+Bits+leetcode+shorts) |
+| Reverse Bits | Easy | [Link](https://www.youtube.com/results?search_query=Reverse+Bits+leetcode+shorts) |
+| Missing Number | Easy | [Link](https://www.youtube.com/results?search_query=Missing+Number+leetcode+shorts) |
+| Sum of Two Integers | Medium | [Link](https://www.youtube.com/results?search_query=Sum+of+Two+Integers+leetcode+shorts) |
+| Reverse Integer | Medium | [Link](https://www.youtube.com/results?search_query=Reverse+Integer+leetcode+shorts) |
 ---
 
 ## 🎯 How to Use This Repository
