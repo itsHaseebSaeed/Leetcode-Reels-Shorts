@@ -28,77 +28,76 @@ Quick revision resources for coding interview preparation! Each YouTube short is
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Contains Duplicate | Easy | [Link](#) |
-| Valid Anagram | Easy | [Link](#) |
-| Two Sum | Easy | [Link](#) |
-| Group Anagrams | Medium | [Link](#) |
-| Top K Frequent Elements | Medium | [Link](#) |
-| Product of Array Except Self | Medium | [Link](#) |
-| Valid Sudoku | Medium | [Link](#) |
-| Encode and Decode Strings | Medium | [Link](#) |
-| Longest Consecutive Sequence | Medium | [Link](#) |
+| Contains Duplicate | Easy | [Link](https://www.youtube.com/shorts/1vdbIJ-n90w) |
+| Valid Anagram | Easy | [Link](https://www.youtube.com/shorts/4HjZNNvCg8k) |
+| Two Sum | Easy | [Link](https://www.youtube.com/shorts/P0U_VCtp4BE) |
+| Group Anagrams | Medium | [Link](https://www.youtube.com/shorts/HEoA0PfGEVQ) |
+| Top K Frequent Elements | Medium | [Link](https://www.youtube.com/shorts/XJu-eHUMpzE) |
+| Product of Array Except Self | Medium | [Link](https://www.youtube.com/shorts/WKyLpOQScN0) |
+| Valid Sudoku | Medium | [Link](https://www.youtube.com/shorts/38-36ADTqu0) |
+| Encode and Decode Strings | Medium | [Link](https://www.youtube.com/shorts/3JhOb9MraQA) |
+| Longest Consecutive Sequence | Medium | [Link](https://www.youtube.com/shorts/ahysrRu0bHw) |
 
 ## Two Pointers
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Valid Palindrome | Easy | [Link](#) |
-| Two Sum II - Input Array Is Sorted | Medium | [Link](#) |
-| 3Sum | Medium | [Link](#) |
-| Container With Most Water | Medium | [Link](#) |
-| Trapping Rain Water | Hard | [Link](#) |
+| Valid Palindrome | Easy | [Link](https://www.youtube.com/shorts/By481M29520) |
+| Two Sum II - Input Array Is Sorted | Medium | [Link](https://www.youtube.com/shorts/cisQMoo93eM) |
+| 3Sum | Medium | [Link](https://www.youtube.com/shorts/QyqC_X6eSHQ) |
+| Container With Most Water | Medium | [Link](https://www.youtube.com/shorts/lVT_g1Iqyw4) |
+| Trapping Rain Water | Hard | [Link](https://www.youtube.com/shorts/3dE6a0FsK6E) |
 
 ## Stack
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Valid Parentheses | Easy | [Link](#) |
-| Min Stack | Medium | [Link](#) |
-| Evaluate Reverse Polish Notation | Medium | [Link](#) |
-| Generate Parentheses | Medium | [Link](#) |
-| Daily Temperatures | Medium | [Link](#) |
-| Car Fleet | Medium | [Link](#) |
-| Largest Rectangle in Histogram | Hard | [Link](#) |
+| Valid Parentheses | Easy | [Link](https://www.youtube.com/shorts/5TN5FTHWRvc) |
+| Min Stack | Medium | [Link](https://www.youtube.com/shorts/y0PUxdBhv84) |
+| Evaluate Reverse Polish Notation | Medium | [Link](https://www.youtube.com/shorts/fz0N-FA3Nt8) |
+| Generate Parentheses | Medium | [Link](https://www.youtube.com/watch?v=8hS-qqX84AY) |
+| Daily Temperatures | Medium | [Link](https://www.youtube.com/shorts/KNLWhugmBRM) |
+| Car Fleet | Medium | [Link](https://www.youtube.com/shorts/jMGyuMaCkpk) |
+| Largest Rectangle in Histogram | Hard | [Link](https://www.youtube.com/shorts/1OaGrWHEuxo) |
 
 ## Binary Search
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Binary Search | Easy | [Link](#) |
-| Search a 2D Matrix | Medium | [Link](#) |
-| Koko Eating Bananas | Medium | [Link](#) |
-| Find Minimum in Rotated Sorted Array | Medium | [Link](#) |
-| Search in Rotated Sorted Array | Medium | [Link](#) |
-| Time Based Key-Value Store | Medium | [Link](#) |
-| Median of Two Sorted Arrays | Hard | [Link](#) |
+| Binary Search | Easy | [Link](https://www.youtube.com/shorts/J-utUG7jp2M) |
+| Search a 2D Matrix | Medium | [Link](https://www.youtube.com/shorts/6V6PhgELrz8) |
+| Koko Eating Bananas | Medium | [Link](https://www.youtube.com/shorts/nBQ99inrp0E) |
+| Find Minimum in Rotated Sorted Array | Medium | [Link](https://www.youtube.com/shorts/mgE_B4CdZhw) |
+| Search in Rotated Sorted Array | Medium | [Link](https://www.youtube.com/shorts/ItDKaR0ZxlU) |
+| Time Based Key-Value Store | Medium | [Link](https://www.youtube.com/watch?v=pmKJJN07Ppo) |
+| Median of Two Sorted Arrays | Hard | [Link](https://www.youtube.com/shorts/PcVzvCUkydE) |
 
 ## Sliding Window
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Best Time to Buy and Sell Stock | Easy | [Link](#) |
-| Longest Substring Without Repeating Characters | Medium | [Link](#) |
-| Longest Repeating Character Replacement | Medium | [Link](#) |
-| Permutation in String | Medium | [Link](#) |
-| Minimum Window Substring | Hard | [Link](#) |
-| Sliding Window Maximum | Hard | [Link](#) |
+| Best Time to Buy and Sell Stock | Easy | [Link](https://www.youtube.com/shorts/C28ZiN_E-Gc) |
+| Longest Substring Without Repeating Characters | Medium | [Link](https://www.youtube.com/shorts/DMDd3Krrkaw) |
+| Longest Repeating Character Replacement | Medium | [Link](https://www.youtube.com/watch?v=ExY8svHF_Eo) |
+| Permutation in String | Medium | [Link](https://www.youtube.com/watch?v=SJN1UagHI9k) |
+| Minimum Window Substring | Hard | [Link](https://www.youtube.com/shorts/C8XoADng3_M) |
+| Sliding Window Maximum | Hard | [Link](https://www.youtube.com/shorts/RXds_MPF1aA) |
 
 ## Linked List
 
 | Problem | Difficulty | YouTube Short |
 |---------|-----------|---------------|
-| Reverse Linked List | Easy | [Link](#) |
-| Merge Two Sorted Lists | Easy | [Link](#) |
-| Reorder List | Medium | [Link](#) |
-| Remove Nth Node From End of List | Medium | [Link](#) |
-| Copy List with Random Pointer | Medium | [Link](#) |
-| Add Two Numbers | Medium | [Link](#) |
-| Linked List Cycle | Easy | [Link](#) |
-| Find the Duplicate Number | Medium | [Link](#) |
-| LRU Cache | Medium | [Link](#) |
-| Merge k Sorted Lists | Hard | [Link](#) |
-| Reverse Nodes in k-Group | Hard | [Link](#) |
-
+| Reverse Linked List | Easy | [Link](https://www.youtube.com/shorts/0gcUIyxQgtg) |
+| Merge Two Sorted Lists | Easy | [Link](https://www.youtube.com/shorts/ukpkeywEc-0) |
+| Reorder List | Medium | [Link](https://www.youtube.com/watch?v=Pno7rUOZM-o) |
+| Remove Nth Node From End of List | Medium | [Link](https://www.youtube.com/shorts/sY17-e8Cc5g) |
+| Copy List with Random Pointer | Medium | [Link](https://www.youtube.com/shorts/IzPQJDvScFU) |
+| Add Two Numbers | Medium | [Link](https://www.youtube.com/shorts/LS2GkGt-YaY) |
+| Linked List Cycle | Easy | [Link](https://www.youtube.com/shorts/IYliP7RV69o) |
+| Find the Duplicate Number | Medium | [Link](https://www.youtube.com/shorts/FWZSfcR-CGY) |
+| LRU Cache | Medium | [Link](https://www.youtube.com/shorts/Mo6NtQE8NKY) |
+| Merge k Sorted Lists | Hard | [Link](https://www.youtube.com/watch?v=vOrgTdUg6sI) |
+| Reverse Nodes in k-Group | Hard | [Link](https://www.youtube.com/shorts/GNTsHWEi9xk) |
 ## Trees
 
 | Problem | Difficulty | YouTube Short |
