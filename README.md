@@ -1,9 +1,3 @@
-# LeetCode YouTube Shorts - 60 Second Revisions 🚀
-
-Quick revision resources for coding interview preparation! Each YouTube short is designed to help you revise a LeetCode problem in less than 60 seconds.
-
-## 📚 Table of Contents
-
 # LeetCode YouTube Shorts – 60 Second Revisions 🚀
 
 Quick revision resources for coding interview preparation.
