@@ -11,7 +11,7 @@ If no verified short exists, the field is intentionally left blank.
 | Arrays & Hashing | Contains Duplicate | Easy | https://www.youtube.com/shorts/El4DhjI9J3U |
 | Arrays & Hashing | Valid Anagram | Easy | https://www.youtube.com/shorts/4HjZNNvCg8k |
 | Arrays & Hashing | Two Sum | Easy | https://www.youtube.com/shorts/ysifKoOZw5g |
-| Arrays & Hashing | Group Anagrams | Medium | https://www.youtube.com/shorts/PsfD4BPbZ3A |
+| Arrays & Hashing | Group Anagrams | Medium | https://www.youtube.com/shorts/sUsGcnGqEIE |
 | Arrays & Hashing | Top K Frequent Elements | Medium | https://www.youtube.com/shorts/qdVf8GK5G8U |
 | Arrays & Hashing | Product of Array Except Self | Medium | https://www.youtube.com/shorts/QsqOlVMSyOQ |
 | Arrays & Hashing | Valid Sudoku | Medium | https://www.youtube.com/shorts/sI7HgBshOgs |
