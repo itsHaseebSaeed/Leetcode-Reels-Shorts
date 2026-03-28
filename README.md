@@ -1,4 +1,4 @@
-# LeetCode YouTube Shorts – 60 Second Revisions 🚀
+# LeetCode YouTube Reels – 60 Second Revisions 🚀
 
 Quick revision resources for coding interview preparation.
 Each link below is an exact YouTube Short URL.
