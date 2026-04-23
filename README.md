@@ -53,7 +53,7 @@ If no verified short exists, the field is intentionally left blank.
 | Trees | Maximum Depth of Binary Tree | Easy | https://www.youtube.com/shorts/YebLQwAPY5w |
 | Trees | Diameter of Binary Tree | Easy | https://www.youtube.com/shorts/2xCUAiH1XG4 |
 | Trees | Balanced Binary Tree | Easy | https://www.youtube.com/shorts/l1YuZQZVe4g |
-| Trees | Same Tree | Easy | https://www.youtube.com/shorts/dyrErKMJmIM |
+| Trees | Same Binary Tree | Easy | https://www.youtube.com/shorts/7rbpDXTeE9A |
 | Trees | Subtree of Another Tree | Easy | https://www.youtube.com/shorts/naOVyMUmp-M |
 | Trees | Lowest Common Ancestor BST | Medium | https://www.youtube.com/shorts/GiARPxFUpiM |
 | Trees | Binary Tree Level Order Traversal | Medium | https://www.youtube.com/shorts/Bku4qOJ5p_M |
