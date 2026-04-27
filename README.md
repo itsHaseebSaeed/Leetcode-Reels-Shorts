@@ -32,8 +32,8 @@ If no verified short exists, the field is intentionally left blank.
 | Binary Search | Binary Search | Easy | https://www.youtube.com/shorts/J-utUG7jp2M |
 | Binary Search | Search a 2D Matrix | Medium | https://www.youtube.com/shorts/6V6PhgELrz8 |
 | Binary Search | Koko Eating Bananas | Medium | https://www.youtube.com/shorts/nBQ99inrp0E |
-| Binary Search | Find Minimum in Rotated Sorted Array | Medium | https://www.youtube.com/shorts/mgE_B4CdZhw |
-| Binary Search | Search in Rotated Sorted Array | Medium | https://www.youtube.com/shorts/ItDKaR0ZxlU |
+| Binary Search🔁 | Find Minimum in Rotated Sorted Array | Medium | https://www.youtube.com/shorts/mgE_B4CdZhw |
+| Binary Search🔁 | Search in Rotated Sorted Array | Medium | https://www.youtube.com/shorts/ItDKaR0ZxlU |
 | Binary Search | Time Based Key-Value Store | Medium |  |
 | Binary Search | Median of Two Sorted Arrays | Hard | https://www.youtube.com/shorts/PcVzvCUkydE |
 | Sliding Window | Best Time to Buy and Sell Stock | Easy | https://www.youtube.com/shorts/C28ZiN_E-Gc |
