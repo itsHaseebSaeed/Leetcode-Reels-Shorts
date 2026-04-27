@@ -59,6 +59,7 @@ If no verified short exists, the field is intentionally left blank.
 | Trees | Binary Tree Level Order Traversal | Medium | https://www.youtube.com/shorts/Bku4qOJ5p_M |
 | Trees | Binary Tree Right Side View | Medium | https://www.youtube.com/shorts/pGfAxY3H394 |
 | Trees | Kth Smallest Element in BST | Medium | https://www.youtube.com/shorts/j-CVcuiaSQs |
+| Trees | Serialize and Deserialize Binary Tree | Hard | |
 | Tries | Implement Trie | Medium | https://www.youtube.com/shorts/hnBe-kehOfE |
 | Heap | Kth Largest Element in a Stream | Easy | https://www.youtube.com/shorts/uGAuPOzQd8s |
 | Heap | Last Stone Weight | Easy | https://www.youtube.com/shorts/5b4FYzwtoYo |
