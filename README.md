@@ -12,15 +12,15 @@ If no verified short exists, the field is intentionally left blank.
 | Arrays & Hashing | Valid Anagram | Easy | https://www.youtube.com/shorts/4HjZNNvCg8k |
 | Arrays & Hashing | Two Sum | Easy | https://www.youtube.com/shorts/ysifKoOZw5g |
 | Arrays & Hashing | Group Anagrams | Medium | https://www.youtube.com/shorts/sUsGcnGqEIE |
-| Arrays & Hashing | Top K Frequent Elements | Medium | https://www.youtube.com/shorts/qdVf8GK5G8U |
-| Arrays & Hashing | Product of Array Except Self | Medium | https://www.youtube.com/shorts/QsqOlVMSyOQ |
-| Arrays & Hashing | Valid Sudoku | Medium | https://www.youtube.com/shorts/sI7HgBshOgs |
+| Arrays & Hashing🔁 | Top K Frequent Elements | Medium | https://www.youtube.com/shorts/qdVf8GK5G8U |
+| Arrays & Hashing🔁 | Product of Array Except Self | Medium | https://www.youtube.com/shorts/QsqOlVMSyOQ |
+| Arrays & Hashing🔁 | Valid Sudoku | Medium | https://www.youtube.com/shorts/sI7HgBshOgs |
 | Arrays & Hashing | Encode and Decode Strings | Medium |  |
 | Arrays & Hashing | Longest Consecutive Sequence | Medium |  |
-| Two Pointers | Valid Palindrome | Easy | https://www.youtube.com/shorts/By481M29520 |
-| Two Pointers | Two Sum II | Medium | https://www.youtube.com/shorts/cisQMoo93eM |
+| Two Pointers🔁 | Valid Palindrome | Easy | https://www.youtube.com/shorts/By481M29520 |
+| Two Pointers🔁 | Two Sum II | Medium | https://www.youtube.com/shorts/cisQMoo93eM |
 | Two Pointers | 3Sum | Medium | https://www.youtube.com/shorts/QyqC_X6eSHQ |
-| Two Pointers | Container With Most Water | Medium | https://www.youtube.com/shorts/lVT_g1Iqyw4 |
+| Two Pointers🔁 | Container With Most Water | Medium | https://www.youtube.com/shorts/lVT_g1Iqyw4 |
 | Two Pointers | Trapping Rain Water | Hard | https://www.youtube.com/shorts/3dE6a0FsK6E |
 | Stack | Valid Parentheses | Easy | https://www.youtube.com/shorts/5TN5FTHWRvc |
 | Stack | Min Stack | Medium | https://www.youtube.com/shorts/y0PUxdBhv84 |
