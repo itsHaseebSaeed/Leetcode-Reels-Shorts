@@ -55,7 +55,7 @@ If no verified short exists, the field is intentionally left blank.
 | Trees | Balanced Binary Tree | Easy | https://www.youtube.com/shorts/l1YuZQZVe4g |
 | Trees | Same Binary Tree | Easy | https://www.youtube.com/shorts/7rbpDXTeE9A |
 | Trees | Subtree of Another Tree | Easy | https://www.youtube.com/shorts/naOVyMUmp-M |
-| Trees | Lowest Common Ancestor BST | Medium | https://www.youtube.com/shorts/GiARPxFUpiM |
+| Trees | Lowest Common Ancestor BST | Medium | https://www.youtube.com/shorts/9NEVTrv7OeI |
 | Trees | Binary Tree Level Order Traversal | Medium | https://www.youtube.com/shorts/Bku4qOJ5p_M |
 | Trees | Binary Tree Right Side View | Medium | https://www.youtube.com/shorts/pGfAxY3H394 |
 | Trees | Construct Binary Tree from Inorder and Preorder Traversal  | Medium | https://www.youtube.com/shorts/uPNzjv0kbnY |
