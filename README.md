@@ -2,8 +2,7 @@
 
 Quick revision resources for coding interview preparation.
 Each link below is an exact YouTube Short URL.
-If no verified short exists, the field is intentionally left blank.
-
+Youtube Playlist Link: https://www.youtube.com/playlist?list=PL--tZ5ZEPUTNbXpDz0I7nYAHkWic09g-2
 ---
 
 | Category | Problem | Difficulty | YouTube Short |
