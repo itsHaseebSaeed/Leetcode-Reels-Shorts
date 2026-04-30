@@ -1,7 +1,9 @@
 # LeetCode YouTube Reels – 60 Second Revisions 🚀
 
 Quick revision resources for coding interview preparation.
+
 Each link below is an exact YouTube Short URL.
+
 YouTube Playlist: [Playlist Link](https://youtube.com/playlist?list=PL--tZ5ZEPUTNbXpDz0I7nYAHkWic09g-2&si=w1DiE8LvBydzWNvo)
 
 | Category | Problem | Difficulty | YouTube Short |
