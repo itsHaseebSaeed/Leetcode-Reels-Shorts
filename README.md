@@ -60,24 +60,24 @@ If no verified short exists, the field is intentionally left blank.
 | Trees🔁 | Binary Tree Right Side View | Medium | https://www.youtube.com/shorts/pGfAxY3H394 |
 | Trees | Construct Binary Tree from Inorder and Preorder Traversal  | Medium |  |
 | Trees | Binary Tree Maximum Path Sum   | Hard | https://www.youtube.com/shorts/uPNzjv0kbnY |
-| Trees | Kth Smallest Element in BST | Medium | https://www.youtube.com/shorts/j-CVcuiaSQs |
+| Trees🔁 | Kth Smallest Element in BST | Medium | https://www.youtube.com/shorts/j-CVcuiaSQs |
 | Trees | Serialize and Deserialize Binary Tree | Hard | |
 | Tries | Implement Trie | Medium | https://www.youtube.com/shorts/hnBe-kehOfE |
-| Heap | Kth Largest Element in a Stream | Easy | https://www.youtube.com/shorts/uGAuPOzQd8s |
-| Heap | Last Stone Weight | Easy | https://www.youtube.com/shorts/5b4FYzwtoYo |
-| Heap | Kth Largest Element in an Array | Medium | https://www.youtube.com/shorts/pde1r1_vI8s |
+| Heap🔁 | Kth Largest Element in a Stream | Easy | https://www.youtube.com/shorts/uGAuPOzQd8s |
+| Heap🔁 | Last Stone Weight | Easy | https://www.youtube.com/shorts/5b4FYzwtoYo |
+| Heap🔁 | Kth Largest Element in an Array | Medium | https://www.youtube.com/shorts/pde1r1_vI8s |
 | Backtracking | Subsets | Medium | https://www.youtube.com/shorts/MOdHXz05efs |
 | Backtracking | Permutations | Medium | https://www.youtube.com/shorts/Alc4bkqINLo |
 | Backtracking | Word Search | Medium | https://www.youtube.com/shorts/y09dftAIX7M |
-| Backtracking | Palindrome Partitioning | Medium | https://www.youtube.com/shorts/NRBSVMlaxTI |
-| Backtracking | N-Queens | Hard | https://www.youtube.com/shorts/1z24my0v6gk |
+| Backtracking🔁 | Palindrome Partitioning | Medium | https://www.youtube.com/shorts/NRBSVMlaxTI |
+| Backtracking🔁 | N-Queens | Hard | https://www.youtube.com/shorts/1z24my0v6gk |
 | Graphs | Rotting Oranges | Medium | https://www.youtube.com/shorts/dBicll-M7Uw |
 | Graphs | Walls and Gates | Medium | https://www.youtube.com/shorts/i4IenDvK_mg |
-| Graphs | Course Schedule | Medium | https://www.youtube.com/shorts/lJsptqcGS1A |
+| Graphs🔁 | Course Schedule | Medium | https://www.youtube.com/shorts/lJsptqcGS1A |
 | 1-D DP | Climbing Stairs | Easy | https://www.youtube.com/shorts/HCNosgKK8KY |
 | 1-D DP | Min Cost Climbing Stairs | Easy | https://www.youtube.com/shorts/oBsRfXy9xKM |
 | 1-D DP | Longest Palindromic Substring | Medium | https://www.youtube.com/shorts/VuwWTc363EA |
-| 1-D DP | Decode Ways | Medium | https://www.youtube.com/shorts/eqjBrzmdKuI |
+| 1-D DP🔁 | Decode Ways | Medium | https://www.youtube.com/shorts/eqjBrzmdKuI |
 | 1-D DP | Coin Change | Medium | https://www.youtube.com/shorts/eVkQJKyb-64 |
 | 2-D DP | Coin Change II | Medium | https://www.youtube.com/shorts/eyiOkKgWl4A |
 | Bit Manipulation | Single Number | Easy | https://www.youtube.com/shorts/rI8yNsQewns |
