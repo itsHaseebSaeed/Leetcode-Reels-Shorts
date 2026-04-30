@@ -23,7 +23,7 @@ If no verified short exists, the field is intentionally left blank.
 | Two Pointers🔁 | Container With Most Water | Medium | https://www.youtube.com/shorts/lVT_g1Iqyw4 |
 | Two Pointers | Trapping Rain Water | Hard | https://www.youtube.com/shorts/3dE6a0FsK6E |
 | Stack | Valid Parentheses | Easy | https://www.youtube.com/shorts/5TN5FTHWRvc |
-| Stack | Min Stack | Medium | https://www.youtube.com/shorts/y0PUxdBhv84 |
+| Stack🔁 | Min Stack | Medium | https://www.youtube.com/shorts/y0PUxdBhv84 |
 | Stack | Evaluate Reverse Polish Notation | Medium | https://www.youtube.com/shorts/fz0N-FA3Nt8 |
 | Stack | Generate Parentheses | Medium | https://www.youtube.com/shorts/gNATA8qUz0o |
 | Stack | Daily Temperatures | Medium | https://www.youtube.com/shorts/KNLWhugmBRM |
@@ -35,22 +35,22 @@ If no verified short exists, the field is intentionally left blank.
 | Binary Search🔁 | Find Minimum in Rotated Sorted Array | Medium | https://www.youtube.com/shorts/mgE_B4CdZhw |
 | Binary Search🔁 | Search in Rotated Sorted Array | Medium | https://www.youtube.com/shorts/ItDKaR0ZxlU |
 | Binary Search | Time Based Key-Value Store | Medium |  |
-| Binary Search | Median of Two Sorted Arrays | Hard | https://www.youtube.com/shorts/PcVzvCUkydE |
+| Binary Search🔁 | Median of Two Sorted Arrays | Hard | https://www.youtube.com/shorts/PcVzvCUkydE |
 | Sliding Window | Best Time to Buy and Sell Stock | Easy | https://www.youtube.com/shorts/C28ZiN_E-Gc |
 | Sliding Window | Longest Substring Without Repeating Characters | Medium | https://www.youtube.com/shorts/DMDd3Krrkaw |
-| Sliding Window | Minimum Window Substring | Hard | https://www.youtube.com/shorts/C8XoADng3_M |
+| Sliding Window🔁 | Minimum Window Substring | Hard | https://www.youtube.com/shorts/C8XoADng3_M |
 | Sliding Window | Sliding Window Maximum | Hard | https://www.youtube.com/shorts/RXds_MPF1aA |
 | Linked List | Reverse Linked List | Easy | https://www.youtube.com/shorts/0gcUIyxQgtg |
 | Linked List | Merge Two Sorted Lists | Easy | https://www.youtube.com/shorts/ukpkeywEc-0 |
 | Linked List | Remove Nth Node From End | Medium | https://www.youtube.com/shorts/sY17-e8Cc5g |
-| Linked List | Copy List with Random Pointer | Medium | https://www.youtube.com/shorts/IzPQJDvScFU |
+| Linked List🔁 | Copy List with Random Pointer | Medium | https://www.youtube.com/shorts/IzPQJDvScFU |
 | Linked List | Add Two Numbers | Medium | https://www.youtube.com/shorts/LS2GkGt-YaY |
 | Linked List | Linked List Cycle | Easy | https://www.youtube.com/shorts/IYliP7RV69o |
 | Linked List | Find the Duplicate Number | Medium | https://www.youtube.com/shorts/FWZSfcR-CGY |
-| Linked List | LRU Cache | Medium | https://www.youtube.com/shorts/Mo6NtQE8NKY |
-| Linked List | Reverse Nodes in k-Group | Hard | https://www.youtube.com/shorts/GNTsHWEi9xk |
+| Linked List🔁 | LRU Cache | Medium | https://www.youtube.com/shorts/Mo6NtQE8NKY |
+| Linked List🔁 | Reverse Nodes in k-Group | Hard | https://www.youtube.com/shorts/GNTsHWEi9xk |
 | Trees | Invert Binary Tree | Easy | https://www.youtube.com/shorts/0FQLvEy1iUo |
-| Trees | Maximum Depth of Binary Tree | Easy | https://www.youtube.com/shorts/YebLQwAPY5w |
+| Trees🔁 | Maximum Depth of Binary Tree | Easy | https://www.youtube.com/shorts/YebLQwAPY5w |
 | Trees | Diameter of Binary Tree | Easy | https://www.youtube.com/shorts/2xCUAiH1XG4 |
 | Trees | Balanced Binary Tree | Easy | https://www.youtube.com/shorts/l1YuZQZVe4g |
 | Trees | Same Binary Tree | Easy | https://www.youtube.com/shorts/7rbpDXTeE9A |
